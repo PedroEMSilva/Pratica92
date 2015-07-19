@@ -16,7 +16,9 @@ public class MensagemTask extends TimerTask {
     private final Date currentTime = new Date();
     private final SimpleDateFormat sdf = new SimpleDateFormat("'Hora:' HH:mm:ss");
     ImparTask i = new ImparTask();
-
+public  void fecha(){
+i.cancel();
+}
     @Override
     public void run() {
         currentTime.setTime(System.currentTimeMillis());
