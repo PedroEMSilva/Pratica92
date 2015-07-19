@@ -1,9 +1,10 @@
-package utfpr.ct.dainf.if62c.avaliacao;
+
 
 import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.Timer;
 import java.util.TimerTask;
+
 
 /**
  * IF62C Fundamentos de Programação 2 Exemplo de programação em Java. Tarefa que

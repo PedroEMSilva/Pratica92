@@ -3,7 +3,6 @@ import java.io.IOException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.Timer;
-import utfpr.ct.dainf.if62c.avaliacao.MensagemTask;
 
 
 /**
